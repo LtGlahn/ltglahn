@@ -1,4 +1,4 @@
-### Who's LtGlahn? Hvem er LtGlahn? 👋
+### Who's LtGlahn? Hvem er LtGlahn? 
 
 Jan Kristian Jensen, [Statens Vegvesen](https://www.vegvesen.no) / Norwegian Public Road adminsitration 
 
