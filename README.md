@@ -6,7 +6,7 @@ GIS specialist, problem solving, data analysis, product owner and tinkering with
 
 Python + pandas/geopandas, FME, qgis, arcgis pro, and whatever strikes my fancy / is needed, learning as we go along.
 
-My [LinkedIn](www.linkedin.com/in/jan-kristian-jensen)
+My [LinkedIn](https://www.linkedin.com/in/jan-kristian-jensen)
 
 
 
